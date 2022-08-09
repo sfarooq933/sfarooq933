@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfarooq933
-- 👀 I’m interested in conducting analysis that helps improve human lives.
-- 🌱 I’m currently learning healthcare data analytics using SAS. 
-- 💞️ I’m looking to collaborate on projects utilizing analytics and AI to imporve lives and help make better deicisons. 
+- 👀 I’m interested in using data and analytics to better the human experience.
+- 🌱 I’m currently learning SAS and Python.
+- 💞️ I’m looking to collaborate on projects utilizing AI to imporve lives and help make better deicisons. 
 - 📫 You can reach me at sfarooq933@gmail.com
 
 <!---
