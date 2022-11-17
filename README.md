@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sfarooq933
-- 👀 I’m interested in using data and analytics gather insights and make better decisions.
+- 👀 I’m interested in using data and analytics to gather insights and make better decisions.
 - 🌱 I’m currently learning SAS and Python.
 
 <!---
